@@ -6,7 +6,7 @@ date: 2025-09-30
 <div class="welcome">
 <div>
 
-My name is Raakesh. I'm a embedded firmware engineer, and am at my happiest when I'm building <i>something cool</i> or working towards my goals. "When I am not at my keyboard, I serve as a living museum of questionable life choices.
+My name is Raakesh. I'm a embedded firmware engineer, and am at my happiest when I'm building <i>something cool</i> or working towards my goals. When I am not at my keyboard, I serve as a living museum of questionable life choices.
 
 Here you will find a mix of notes, longer/more thoughtful posts, and links to various things I've done
 
@@ -30,11 +30,12 @@ This site is constantly shifting, but here are some things you may be interested
 
 I currently work at Ring/Amazon as SDE2.
 
-Previously, I lead the infrastructure team at [PostHog](https://posthog.com/?ref=ellie.wtf), worked at [Coinbase](https://coinbase.com), [Tracr](https://tracr.com) and [Arachnys](https://arachnys.com). You can stalk my [Linkedin](https://linkedin.com/in/elliehuxtable) if you really want to.
+You can track my [Linkedin](https://www.linkedin.com/in/raakesh-kamal/) if you  want to.
 
 ## Contact
 Please do get in touch!
 
-Email: raakeshkamal@outlook.com<br>
-GitHub: [@raakeshkamal]()<br>
-Reddit: [@raakeshkamal]()<br>
+Email: <a href="mailto:raakeshkamal@outlook.com">raakeshkamal@outlook.com</a><br>
+LinkedIn: [@raakeshkamal](https://www.linkedin.com/in/raakesh-kamal/)<br>
+GitHub: [@raakeshkamal](https://github.com/raakeshkamal)<br>
+Reddit: [@raakeshkamal](https://www.reddit.com/user/raakeshkamal/)<br>
