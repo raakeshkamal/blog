@@ -6,6 +6,14 @@ curl -f https://zed.dev/install.sh | sh
 ```
 
 ```
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
 {
   "terminal": {
     "font_family": "JetBrainsMono Nerd Font",
@@ -43,11 +51,11 @@ curl -f https://zed.dev/install.sh | sh
     }
   },
   "agent": {
-    "default_profile": "write",
+    "default_profile": "ask",
     "default_model": {
       "provider": "openrouter",
       // "model": "openai/gpt-5-codex"
-      "model": "openai/gpt-5-codex"
+      "model": "x-ai/grok-4-fast"
     },
     "inline_assistant_model": {
       "provider": "openrouter",
@@ -74,11 +82,21 @@ curl -f https://zed.dev/install.sh | sh
   "lsp": {
     "rust-analyzer": {
       "initialization_options": {
+        // Use `-p` instead of `--workspace` for cargo check
         "check": {
-          "command": "clippy"
+          "command":"clippy"
+          // "workspace": false
+        },
+        // To disable the checking entirely
+        // (ignores all cargo and check settings below)
+        // "checkOnSave": false,
+        // To check the `lib` target only.
+        "cargo": {
+          // "allTargets": false
         }
       }
     }
   }
 }
+
 ```
