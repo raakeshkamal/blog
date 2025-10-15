@@ -1,7 +1,9 @@
 ---
 title: "Timecapsule Entry"
-date: 2025-10-13
+date: 2025-10-13  # Original creation date
+updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 ---
+   
 - I am listening to Ed-Zitron. Him and many others are predicting the AI is bubble and poor/useless product
 - I think the truth is somewhere in the middle. I think AI is a remarkable step function change in human innovation
 - However, lot of rich-investors both private and public are investing without having any realistic expectations or any actual investing of the technology and understand of how it scales
@@ -53,3 +55,16 @@ date: 2025-10-13
 ## My Strategy
 - I am currently 20-40-40 in commmodities, bonds and stocks. Which is my current comfort zone
 - I will keep rebalancing again and again and be disciplined with this ratio
+
+
+> **Bookmark:** 2025-10-14T21:30:35+01:00
+- The recent buzzword I learnt today is AI super-cycle. which means decades of continuous spending. I am skeptical how long this can last
+- So OpenAI is now partnering with Broadcomm as well
+- Oracle will also now deploy AMD GPUs
+- Lovable saw a 50% drop in customers after they remove free-credits and hype faded for vibe-coding
+- Friend AI was a complete disaster
+- Microsoft sales team are forcing copilot on customers. the sales team are only getting commisions of Copilot 365 sales
+- 
+       
+
+
