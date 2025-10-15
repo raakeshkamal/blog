@@ -1,3 +1,7 @@
+---
+title: "Running this Blog"
+---     
+
 ## Bun
 ```
 curl -fsSL https://bun.sh/install | bash
@@ -6,5 +10,6 @@ curl -fsSL https://bun.sh/install | bash
 ### Running Blog
 ```
 bun run quartz -- create
+bun run dev
 bun run quartz -- build --serve
 ```

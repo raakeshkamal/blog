@@ -1,3 +1,6 @@
+---
+title: "Zshrc Setup"
+---
 
 ## env & path setup
 ```

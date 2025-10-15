@@ -1,5 +1,6 @@
-## Zed editor
-
+---
+title: "Zed Editor Setup"
+---
 ```
 brew install --cask zed
 curl -f https://zed.dev/install.sh | sh

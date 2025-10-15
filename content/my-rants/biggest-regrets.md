@@ -8,4 +8,3 @@
 - Not investing in stock market early on in my life (took me 1+ years to realize the benefits of stock investing)
 - Not rooting out toxic friends/co-workers from my life early enough
 - Taking too long to move to UK. Wasting too much time stuck in pointless Indian work culture
-  - https://www.youtube.com/watch?v=M8G5ywIfpQ8

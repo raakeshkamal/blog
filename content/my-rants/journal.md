@@ -31,6 +31,10 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 - There is a very slim chance that other countries will bend their knees and accept something like that. The last plaza accord literally killed Japan's economy and caused Japan's lost decade.
 - There is crazy about of government debt. Government is currently in shutdown. Gold and Silver prices are at all time highs. As everyone expects a lot of central-bank borrowing and dollar losing its stability (de-basement trade)
 - Bond markets are still quite stable. However unemployment is going up and inflation is already up due to tariffs
+- Trump is rolling back some of the post-GFC regulations requiring banks to reserve less captial ratio 🙈
+
+## Crazy Investing Stories
+- More and more Gen Z are gambling with 10x - 100x leverage Crypto ETF and 0DTE. This is degeneracy. Its absolutely mental. 
 
 ## My Expectations
 - The last dot-com bubble was predicted about 1-2 years early. So I expect the following:
@@ -64,7 +68,7 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 - Lovable saw a 50% drop in customers after they remove free-credits and hype faded for vibe-coding
 - Friend AI was a complete disaster
 - Microsoft sales team are forcing copilot on customers. the sales team are only getting commisions of Copilot 365 sales
-- 
+- America is currently a K-shaped economy
        
 
 

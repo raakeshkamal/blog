@@ -1,7 +1,6 @@
-                      
-                                  
-## Awesome Rust tools
-
+---
+title: "Awesome Rust tools"
+---                      
 
 [BAT - Replace CAT](https://github.com/sharkdp/bat)
 ![BAT - Replace CAT](https://camo.githubusercontent.com/a9789c5200bdb0a22602643d7bf85f0f424ddd4259e763abc865609010c5e228/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67)

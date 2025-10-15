@@ -1,5 +1,6 @@
-
-## Cargo Dev Tools
+---
+title: "Cargo Dev Tools"
+---     
 
 [Bacon - Run Cargo in loop](https://github.com/Canop/bacon)
 ![Bacon - Run Cargo in loop](https://github.com/Canop/bacon/raw/main/doc/screenshot.png)
