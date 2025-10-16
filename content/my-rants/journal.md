@@ -65,7 +65,7 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 - The recent buzzword I learnt today is AI super-cycle. which means decades of continuous spending. I am skeptical how long this can last
 - So OpenAI is now partnering with Broadcomm as well
 - Oracle will also now deploy AMD GPUs
-- Lovable saw a 50% drop in customers after they remove free-credits and hype faded for vibe-coding
+- Lovable saw a 50% drop in customers after they remove free-credits and hype faded for vibe-coding https://www.finalroundai.com/blog/vibe-coding-bubble?ref=dailydev
 - Friend AI was a complete disaster
 - Microsoft sales team are forcing copilot on customers. the sales team are only getting commisions of Copilot 365 sales
 - America is currently a K-shaped economy
