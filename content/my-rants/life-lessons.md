@@ -1,3 +1,12 @@
+## Life Lessons
+- FEE model - Focus , Energy , Effort
+- You need to stop worring about what others think cause they very rarely think about you
+- Take a shot at something no-one is looking at
+- question everything, never drink the kool-aid
+- not everything has to have a purose or meaning, something is journey is the best reward
+- advestity and heartache makes you mentally stronger
+- find your commitment and find your sacrifice. purpose full engagement. meaniful life needs constraints and sarifices
+
 ## Investing Lessons
 - Only rules to make money - Be the first or Be the smart or Cheat
 - Only invest in public companies

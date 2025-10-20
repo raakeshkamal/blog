@@ -42,6 +42,7 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
   - Market will likely double from today's levels before they crash
   - Market will keep saying "its different this time".
   - Catalyst predictions for the crash:
+    - OpenAI fails to convert to for-profit. A lot of equity funding for OpenAI will fail or get converted to debt.
     - Any one of the hyperscalers having a bad quarter and having to scale back AI spending due to lack of demand. Or due to poor ROI
     - Any large report that the AI invest ments by a lot of companies are not actually yielding expected results
     - Any of the neo-clouds, energy-providers getting over-levered and becoming unable to finance their debt
@@ -61,7 +62,7 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 - I will keep rebalancing again and again and be disciplined with this ratio
 
 
-> **Bookmark:** 2025-10-14T21:30:35+01:00
+> **Bookmark:** 2025-10-14T20:30:35Z
 - The recent buzzword I learnt today is AI super-cycle. which means decades of continuous spending. I am skeptical how long this can last
 - So OpenAI is now partnering with Broadcomm as well
 - Oracle will also now deploy AMD GPUs
@@ -71,4 +72,20 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 - America is currently a K-shaped economy
        
 
+> **Bookmark:** 2025-10-16T18:07:46Z
+- https://www.youtube.com/watch?v=Q0TpWitfxPk
 
+> **Bookmark:** 2025-10-17T20:13:32Z
+- Creative accounting
+  - https://fortune.com/2025/09/28/how-is-arr-calculated-startups-venture/
+- Oracle is super confident that it will soon get a huge market share of the cloud business. There is lot of hurdles and inertia to move from one cloud provider to a another. If Oracle fails on those promises it will be royally fucked
+- Oracle is also expecting OpenAI to pay upto 60 billion dollars a year. Which does not look possible at all
+- Lot of the money for datacenter, power, real-estate and utility companies are coming from Private Credit market which has zero transperancy and absolutely no rules. By the time we realize something went wrong it will all be too late.
+- Sam Altman is approving creating of sex-bot for Adults
+
+> **Bookmark:** 2025-10-19T18:01:46Z
+- Creative accounting
+  - AI companies are cooking the books and extending the depreciation of the expensive GPU to make their balance sheet look good after including depreciation
+  - At the same time NVIDIA wants to release a new chip every year, making the older ones depreciate faster
+- There is push back from Microsoft to provide more compute to OpenAI, because adding more and more compute builds overcapacity is hugely loss making in the short-term
+- All big hollywood studio are gearing up to build copyright cases against OpenAI and this could cause them loose more and more money
