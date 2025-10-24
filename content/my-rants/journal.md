@@ -89,3 +89,6 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
   - At the same time NVIDIA wants to release a new chip every year, making the older ones depreciate faster
 - There is push back from Microsoft to provide more compute to OpenAI, because adding more and more compute builds overcapacity is hugely loss making in the short-term
 - All big hollywood studio are gearing up to build copyright cases against OpenAI and this could cause them loose more and more money
+
+> **Bookmark:** 2025-10-23T00:54:57Z
+- Oracle investigation - https://youtu.be/GmvlSMwEgWs?si=XC5nsan1dpRj1t8R
