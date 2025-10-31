@@ -92,3 +92,20 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 
 > **Bookmark:** 2025-10-23T00:54:57Z
 - Oracle investigation - https://youtu.be/GmvlSMwEgWs?si=XC5nsan1dpRj1t8R
+
+> **Bookmark:** 2025-10-31T04:03:23Z
+- Few of my team members were let go today. all the rumors came true and they actually are closing down the malvern office
+- ceo clearly doesnt want any tiny offices sitting out in the suburbs
+- ceo clearly mentioned he wanted to reduce Managers to IC ratio. lot of people are saying this will help amazon as a company since its been bogged down by a lot of process
+- funniest bit of all of this is ring accquired zonoff now the same ring is making its sole goal to kill the zonoff office and team
+- My plan B is to use a fake company to extend my visa temperorily if i am piped or laid off by this company. atleast this was a good wakeup call and I am mentally prepared now.
+- I will keep doing leet code and learning rust.
+
+> **Bookmark:** 2025-10-31T04:03:23Z
+- Nvidia became 5trillion dollar company and Microsoft suddenly became 4 trillion dollar company
+- Google and Amazon performed excellently in their core businesses of search and cloud so they are raising up
+- But something changed in the story for Microsoft and Meta. They keep increasing the capex but market is starting to now question the ROI of all the capex. They are down after recent results. I think this is a good sign of rationality returning to markets
+- OpenAI is gearing up for an IPO. They promised Microsoft that they would by 250Billon of compute from them. So Microsoft cut them some slack.
+- This is when things will get interesting. OpenAI will no longer be a secretive private company with fake valuations. They have to disclose everything to the markets and markets will start to question everything they are saying.
+- Their revenue, growth projections and profitability are completely disconnected. Its so stupid.
+- I could be wrong the Mag7 with their incestuous relations could keep this alive for longer and longer since they have got the money to do this.
