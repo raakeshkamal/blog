@@ -109,3 +109,11 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 - This is when things will get interesting. OpenAI will no longer be a secretive private company with fake valuations. They have to disclose everything to the markets and markets will start to question everything they are saying.
 - Their revenue, growth projections and profitability are completely disconnected. Its so stupid.
 - I could be wrong the Mag7 with their incestuous relations could keep this alive for longer and longer since they have got the money to do this.
+
+> **Bookmark:** 2025-11-01T11:59:34Z
+- https://www.theatlantic.com/technology/2025/10/data-centers-ai-crash/684765/?utm_source=apple_news
+
+> **Bookmark:** 2025-11-05T07:17:58Z
+- J.Powell might hesitate cutting interest rates in December
+- Micheal Burry is shorting Nvidia and Palantir stock for 1B.
+- Wall street bankers are asking for healthy pullback.
