@@ -117,3 +117,13 @@ updated_at: 2025-10-14T21:30:35+01:00  # New bookmark/update timestamp
 - J.Powell might hesitate cutting interest rates in December
 - Micheal Burry is shorting Nvidia and Palantir stock for 1B.
 - Wall street bankers are asking for healthy pullback.
+
+> **Bookmark:** 2025-11-06T20:40:48Z
+- https://www.youtube.com/watch?v=nTDS5r5fk_k
+
+> **Bookmark:** 2025-11-07T06:56:35Z
+- https://www.youtube.com/watch?v=MtF4Tc5qDLA
+- https://archive.is/SazP4
+- OpenAI is making impossible financial deals to construct a complex interconnected structure that is similar to the banks in GFC. 
+- They are asking banks to backstop their loans
+- One day if everything fails, we can expect the US to bailout OpenAI with Tax payer money similar to Car companies, Intel and US banks
